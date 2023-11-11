@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "name": "Research chicken recipes",
+      "due": "2023-11-23",
+      "status": "in progress"
+    },
+    {
+      "id": 3,
+      "name": "Water plants",
+      "due": "2023-11-10",
+      "status": "in progress"
+    },
+    {
+      "id": 4,
+      "name": "Do chores",
+      "due": "2023-11-10",
+      "status": "in progress"
+    },
+    {
+      "id": 5,
+      "name": "Wash car",
+      "due": "2023-11-15",
+      "status": "completed"
+    },
+    {
+      "name": "Walk dog",
+      "due": "2023-11-11",
+      "status": "completed",
+      "id": 6
+    },
+    {
+      "name": "Finish the project",
+      "due": "2023-11-11",
+      "status": "completed",
+      "id": 7
+    },
+    {
+      "name": "Wash the dishes",
+      "due": "2023-11-13",
+      "status": "in progress",
+      "id": 8
+    }
+  ]
+}
